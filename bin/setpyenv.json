@@ -1,0 +1,6 @@
+{
+    "syspath": "/path/to/extra/modules",
+    "path_to_echograms": "/Users/cch031/Documents/Echograms/memmap_2014",
+    "path_to_korona_data": "/path/to/korona/data",
+    "path_to_korona_transducer_depths": "/path/to/korona/transducer/depths"
+}

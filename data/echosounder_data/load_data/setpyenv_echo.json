@@ -1,0 +1,6 @@
+{
+    "syspath": "/path/to/extra/modules",
+    "path_to_echograms": "C:/Users/Admin/OneDrive/Skrivebord/Master thesis/Data_Set",
+    "path_to_korona_data": "/path/to/korona/data",
+    "path_to_korona_transducer_depths": "/path/to/korona/transducer/depths"
+}
